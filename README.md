@@ -58,4 +58,4 @@ O incluir el nombre del lenguage de programación:
 
 
 
-![Una imagen cualquiera](C:/Users/KARINA/Pictures/yo.jpg  "De 150 x 150 píxeles")
+![Una imagen cualquiera](C:\Users\KARINA\Pictures\yo.jpg  "De 150 x 150 píxeles")
