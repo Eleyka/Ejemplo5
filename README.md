@@ -58,4 +58,4 @@ O incluir el nombre del lenguage de programación:
 
 
 
-![Una imagen cualquiera](https://drive.google.com/drive/computers "De 150 x 150 píxeles")
+![Una imagen cualquiera](https://drive.google.com/drive/computers/11075545_564089737028016_871819047_o.jpg "De 150 x 150 píxeles")
