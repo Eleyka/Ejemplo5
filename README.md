@@ -1,8 +1,8 @@
-#EJEMPLO DE README.md
+# EJEMPLO DE README.md
 
 
 
-###Esto es un ejemplo de README.md
+### Esto es un ejemplo de README.md
 
 
 
